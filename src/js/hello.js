@@ -1,5 +1,5 @@
 const hello = "bonjour !"
 
-document.body.innerHTML += hello
+console.log("bonjour");
 
 export default hello
